@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.14034d29.css",
-    "main.js": "/static/js/main.d55318c3.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
-    "service-worker.js": "/service-worker.js",
-    "index.html": "/index.html",
-    "main.14034d29.css.map": "/static/css/main.14034d29.css.map",
-    "main.d55318c3.js.map": "/static/js/main.d55318c3.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/CarlosRivs/pwa.git/static/css/main.14034d29.css",
+    "main.js": "/CarlosRivs/pwa.git/static/js/main.94bbee5b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/CarlosRivs/pwa.git/static/js/787.28cb0dcd.chunk.js",
+    "service-worker.js": "/CarlosRivs/pwa.git/service-worker.js",
+    "index.html": "/CarlosRivs/pwa.git/index.html",
+    "main.14034d29.css.map": "/CarlosRivs/pwa.git/static/css/main.14034d29.css.map",
+    "main.94bbee5b.js.map": "/CarlosRivs/pwa.git/static/js/main.94bbee5b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/CarlosRivs/pwa.git/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.14034d29.css",
-    "static/js/main.d55318c3.js"
+    "static/js/main.94bbee5b.js"
   ]
 }
